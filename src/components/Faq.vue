@@ -58,6 +58,10 @@
             - Is the project open source?
             <br/>
             Yes, you can find all the code in our Github repository.
+            <br/>
+            - What is USP of Shuffle?
+            <br/>
+            Heap-war create demand for Shuffle. Example - If Mr. A oust Mr. B out of Heap then Mr. B has to increas his Shuf Stack to join Heap back.
         </div>
     </div>
 </template>
